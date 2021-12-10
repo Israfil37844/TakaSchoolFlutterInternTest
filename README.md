@@ -32,7 +32,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
   
 import 'package:fluttertoast/fluttertoast.dart';
   -> Toast Library for Flutter, Easily create toast messages in single line of code
---------------------------------------------------------------------------------
+
 Step - 2: 
 -----------------------------------------------------------------------------------
 ** I use this package for Step 2 
@@ -53,13 +53,21 @@ import 'package:dots_indicator/dots_indicator.dart';
   -> A simple and animated page view indicator in the form of dots, which you can customise color, size, space and duration.
   
 import 'package:flutter/cupertino.dart';
+
 import 'package:flutter/material.dart';
+
 import 'package:flutter_eauction/const/AppColors.dart';
+
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+
 import '../user_form.dart';
+
 import '../products_details_screen.dart';
+
 import 'package:image_picker/image_picker.dart';
+
 import 'package:firebase_storage/firebase_storage.dart';
+
 --------------------------------------------------------------------
 Step - 4 : 
 -------------------------------------------------------------------
