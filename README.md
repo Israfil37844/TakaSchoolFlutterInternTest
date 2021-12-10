@@ -92,15 +92,27 @@ I make Entry point of dashboard in the bottom navigation bar . but other work li
 All the Step I used This Dependencis : 
 -------------------------------------
 firebase_auth: ^3.3.0
+
 firebase_core: ^1.10.1
+
 cloud_firestore: ^3.1.1
+
 flutter_screenutil: ^5.0.1
+
 fluttertoast: ^8.0.8
+
 carousel_slider: ^4.0.0
+
 dots_indicator: ^2.0.0
+
 image_picker: ^0.8.4+4
+
 file_picker: ^4.0.3
+
 firebase_storage: ^10.2.0
+
 firebase_analytics: ^5.0.6
+
 flutter_countdown_timer: ^4.1.0
+
 cupertino_icons: ^1.0.2
