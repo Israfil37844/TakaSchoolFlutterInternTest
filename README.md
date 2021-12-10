@@ -59,3 +59,46 @@ Challange Step - 8:
 I make a dashboard view.Place at entrypoint of the dashboard in the bottom navigation bar . 
 other task I did't comlete because limit of time. 
 
+I Used This Packages All of My Task :
+------------------------------------------
+
+firebase_auth: ^3.3.0
+------------------------
+A Flutter plugin to use the Firebase Authentication API.
+Firebase Auth provides many methods and utilities for enabling  to integrate secure authentication into my new or existing Flutter application. In many cases, I will need to know about the authentication state of My user, such as whether they're logged in or logged out.
+
+firebase_core: ^1.10.1
+-------------------------
+Firebase Core is a set of Flutter plugins which connect My Flutter application to Firebase.
+
+cloud_firestore: ^3.1.1
+-------------------------
+Flutter plugin Used for Cloud Firestore, a cloud-hosted, noSQL database with live synchronization and offline support on Android and iOS Application. 
+
+flutter_screenutil: ^5.0.1
+---------------------------
+I used this flutter-screenutil because It is adapting screen and font size . Guaranteed to look good on different models . 
+
+fluttertoast: ^8.0.8
+-----------------------
+This is for Easily create toast messages in single line of Code. 
+
+carousel_slider: ^4.0.0
+-------------------------
+This is used for Home page Picture Slider . 
+
+dots_indicator: ^2.0.0 
+-------------------------
+This is used for Widget to display dots indicator to show a position . 
+
+image_picker: ^0.8.4+4
+----------------------
+This is used for Pick a Image for my phone Image gallery . 
+
+firebase_storage: ^10.2.0
+----------------------------
+This is used for store and serve user-generated content, such as photos or videos.
+
+cupertino_icons: ^1.0.2
+-------------------------
+This is an asset repo containing the default set of icon assets used by Flutter's Cupertino widgets.
